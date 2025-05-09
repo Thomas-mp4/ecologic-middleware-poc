@@ -7,8 +7,8 @@ This repository contains a FastAPI-based proof-of-concept for the ECOLOGIC Middl
 1. Clone and enter the project:
 
    ```bash
-   git clone <repo_url>
-   cd <local_path>
+   git clone https://github.com/Thomas-mp4/ecologic-middleware-poc.git
+   cd ecologic-middleware-poc/
    ```
 2. Create and activate a virtual environment:
 
